@@ -35,7 +35,7 @@ module.exports = {
   // [OPTIONAL] The footer component of your website. You can write HTML here, but you need to escape double
   // quotes - changing " to \". You can write anything here, and if you like badges, generate some with https://shields.io
   footer:
-    'Powered by <a href="https://mooko.xyz/" target="_blank" rel="noopener noreferrer">X同学</a>. Made with ❤ by X同学.<br><script src="https://v1.hitokoto.cn/?encode=js&select=%23hitokoto" defer></script>',
+    'Powered by <a href="https://mooko.xyz/" target="_blank" rel="noopener noreferrer">X同学</a>. Made with ❤ by X同学.<br><center><iframe frameborder=0  height=20px marginwidth=0 scrolling=no src="https://api.icodeq.com/TuoStudy-Counter/yiyan.html"></iframe></center>',
 
 
   // [OPTIONAL] This is where you specify the folders that are password protected. It is an array of paths pointing to all
